@@ -1,6 +1,6 @@
 {
   "name": "@superset-ui/core",
-  "version": "0.18.11",
+  "version": "0.18.12",
   "description": "Superset UI core",
   "sideEffects": false,
   "main": "lib/index.js",
@@ -68,5 +68,5 @@
     "react": "^16.13.1",
     "react-loadable": "^5.5.0"
   },
-  "gitHead": "ae8b1e102c50b23a9bee824e0b9578b91dc40fad"
+  "gitHead": "300cd1cc71749105147f8d4c8d0a4832688275ab"
 }
