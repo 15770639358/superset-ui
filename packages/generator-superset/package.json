@@ -1,6 +1,6 @@
 {
   "name": "@superset-ui/generator-superset",
-  "version": "0.18.9",
+  "version": "0.18.10",
   "description": "Scaffolder for Superset",
   "bugs": {
     "url": "https://github.com/apache-superset/superset-ui/issues"
@@ -38,5 +38,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "d7059ba92d55fd87cf08ca6700efacce8f4b2cd6"
+  "gitHead": "ae8b1e102c50b23a9bee824e0b9578b91dc40fad"
 }
