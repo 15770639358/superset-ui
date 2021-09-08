@@ -1,6 +1,6 @@
 {
   "name": "@superset-ui/plugin-chart-word-cloud",
-  "version": "0.18.6",
+  "version": "0.18.7",
   "description": "Superset Chart Plugin - Word Cloud",
   "sideEffects": [
     "*.css"
@@ -28,8 +28,8 @@
     "access": "public"
   },
   "dependencies": {
-    "@superset-ui/chart-controls": "0.18.6",
-    "@superset-ui/core": "0.18.6",
+    "@superset-ui/chart-controls": "0.18.7",
+    "@superset-ui/core": "0.18.7",
     "@types/d3-cloud": "^1.2.1",
     "@types/d3-scale": "^2.0.2",
     "d3-cloud": "^1.2.5",
@@ -40,5 +40,5 @@
     "@types/react": "*",
     "react": "^16.13.1"
   },
-  "gitHead": "8fd8907e8035ebdcd5463531518b7e1a7947ca3d"
+  "gitHead": "d7059ba92d55fd87cf08ca6700efacce8f4b2cd6"
 }
